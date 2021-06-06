@@ -1,4 +1,4 @@
-# BlackJack
+# Memória Játék
 
 # Program leírás
 
@@ -10,7 +10,3 @@
 
 ## Érdekes megoldások
 
-### Hello world kiíratása
-```javascript
-console.log('Hello world');
-```
